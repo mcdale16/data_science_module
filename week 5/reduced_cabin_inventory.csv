@@ -1,0 +1,16 @@
+﻿cabin_id,class,no_of_beds,price,ship_level
+1,Third,4,20,1
+2,Third,4,20,2
+3,Third,8,20,2
+4,First,2,120,3
+5,First,2,120,3
+6,Third,8,20,1
+7,First,1,120,3
+8,Third,8,20,1
+9,Third,6,20,1
+10,Second,2,60,3
+11,Second,4,60,2
+12,Third,4,20,1
+13,Second,2,60,2
+14,Third,8,20,2
+15,First,2,120,3

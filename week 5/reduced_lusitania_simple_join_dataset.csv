@@ -1,0 +1,51 @@
+﻿passenger_id,ID,Family_name,Title,Personal_name,Age,Department/Class,Passenger/Crew,Citizenship,Position,Status,City,Adult/Minor,Sex,cabin_id
+1,1096,PARSONS,Mr.,Archibald Ernest,30,Second,Passenger,British,,,New York,Adult,Male,1
+2,572,NAUMANN,Mr.,Frank Gustavus,61,Saloon,Passenger,British,,,Cranleigh,Adult,Male,2
+3,450,CROMPTON,Master,Paul Romilly,9,Saloon,Passenger,British,,Single,Philadephia,Minor,Male,3
+4,383,WOOD,Mr.,John H.,,Engineering,Crew,British,Greaser,,,Adult,Male,4
+5,1489,MacKENZIE,Mr.,Robert Anderson,40,Third,Passenger,British,,,New York,Adult,Male,5
+6,1402,GLEASON,Miss,Katherine,23,Third,Passenger,British,,Single,Chicago,Adult,Female,6
+7,128,DAVIES,Mr.,John,,Engineering,Crew,British,Trimmer,,,Adult,Male,7
+8,1475,LIZAWCZUK,Mr.,Alexaj,26,Third,Passenger,Russian,,,Philadelphia,Adult,Male,8
+9,824,DUNCAN,Mrs.,Robert (Ellen Reid),,Second,Passenger,British,,Married,Montréal,Adult,Female,9
+10,239,MADDEN,Mr.,John,43,Engineering,Crew,British,Fireman,,,Adult,Male,10
+11,631,SMITH,Mrs.,John W. (Jessie Taft),39,Saloon,Passenger,USA,,Married,Braceville,Adult,Female,11
+12,1405,GOODALL,Master,Leonard,7,Third,Passenger,British,,Single,Kearney,Minor,Male,12
+13,1116,PRESTON-SMITH,Mr.,John,28,Second,Passenger,British,,,Southbanks,Adult,Male,13
+14,1444,JENKINS,Mr.,Alfred,73,Third,Passenger,British,,,,Adult,Male,14
+15,744,BRILLY,Mr.,Louis,43,Second,Passenger,Italian,,Engaged,New York,Adult,Male,15
+16,478,GAUNTLETT,Mr.,Frederic John,45,Saloon,Passenger,USA,,,Washington,Adult,Male,1
+17,1010,MARTIN,Miss,Ruby,26,Second,Passenger,British,,Single,New York,Adult,Female,2
+18,809,DAVIES,Mr.,George F.,43,Second,Passenger,British,,,,Adult,Male,3
+19,1262,WILSON,Mr.,John,,Second,Passenger,British,,,Cambridge,Adult,Male,4
+20,316,PALMER,Mr.,Thomas,,Engineering,Crew,British,Trimmer,,,Adult,Male,5
+21,1013,MARTIN-DAVEY,Mr.,William,,Second,Passenger,British,,Married,Vancouver,Adult,Male,6
+22,211,KEHOE,Mr.,Denis,,Engineering,Crew,British,Trimmer,,,Adult,Male,7
+23,538,LINES,Miss,Alice Maud (nurse to the Pearls),18,Saloon,Passenger,British,,Single,New York,Adult,Female,8
+24,111,COLLINS,Mr.,Patrick,35,Engineering,Crew,British,Fireman,,,Adult,Male,9
+25,1404,GOODALL,Master,Jack,10,Third,Passenger,USA,,Single,Kearney,Infant,Male,10
+26,900,HENN,Mr.,Ernest George,35,Second,Passenger,British,,Married,Saskatoon,Adult,Male,11
+27,303,O’BRIEN,Mr.,Patrick,,Engineering,Crew,British,Fireman,,,Adult,Male,12
+28,69,TODD,Mr.,James,,Deck,Crew,British,Able-Bodied Seaman,,,Adult,Male,13
+29,1498,MARTIN,Mrs.,Albert (Laura Truman),56,Third,Passenger,British,,Married,New Philadelphia,Adult,Female,14
+30,733,BOOTH-JONES,Master,Percival,4,Second,Passenger,British,,Single,New York,Minor,Male,15
+31,1583,SNOWDEN,Mr.,Thomas,30,Third,Passenger,British,,,Lynn,Adult,Male,1
+32,715,BARRY,Mr.,Edward,38,Second,Passenger,British,,,New York,Adult,Male,2
+33,1284,ALEXAN,Mr.,Babajan,30,Third,Passenger,Russian,,,New York,Adult,Male,3
+34,1107,PIRIE,Master,Arthur,4,Second,Passenger,British,,Single,Lynn,Minor,Male,4
+35,1414,GRINSTED,Mr.,S. Cyril,27,Third,Passenger,British,,,New York,Adult,Male,5
+36,297,MYLES,Mr.,Peter,17,Engineering,Crew,British,Trimmer,,,Minor,Male,6
+37,1366,DHENIN,Mrs.,Thomas (Evelyn Thomson),33,Third,Passenger,British,,Married,New York,Adult,Female,7
+38,1274,WRIGHT,Miss,Mary E.,,Second,Passenger,British,,Single,New York,Adult,Female,8
+39,1034,McKINNON,Mrs.,Robert (Jeanie Gilmour Beith),27,Second,Passenger,British,,Married,Toronto,Adult,Female,9
+40,1629,WEBB,Mrs.,Elizabeth,69,Third,Passenger,British,,Married,Medforth,Adult,Female,10
+41,755,BURLEY,Mr.,Reuben,39,Second,Passenger,British,,Married,Hamilton,Adult,Male,11
+42,374,WEBB,Mr.,James,,Engineering,Crew,British,Trimmer,,,Adult,Male,12
+43,366,TRAINOR,Mr.,A. (Thomas Pilcher),,Engineering,Crew,British,Trimmer,,,Adult,Male,13
+44,70,TURNER,Captain,William Thomas,58,Deck,Crew,British,Captain,Separated,Liverpool,Adult,Male,14
+45,56,REID,Mr.,James,,Deck,Crew,British,Seaman,,,Adult,Male,15
+46,1303,BANNERJI,Mr.,Induprakash,30,Third,Passenger,British,,,Princeton,Adult,Male,1
+47,1718,DENTON,Mr.,Jonathan S.,47,Victualling,Crew,British,Barber,,,Adult,Male,2
+48,926,HUNTER,Mrs.,George Hardie (Maggie MacGregor),39,Second,Passenger,British,,Married,Atlanta,Adult,Female,3
+49,1871,NUSSBAUM,Mr.,Samuel,,Victualling,Crew,Swiss,Soup Cook,,,Adult,Male,4
+50,352,SOUTHWOLD,Mr.,Henry,,Engineering,Crew,British,Greaser,,,Adult,Male,5
